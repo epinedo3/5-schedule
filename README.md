@@ -13,7 +13,7 @@ To find my github, click [here](https://github.com/epinedo3/5-schedule).
 To find my deployed website, click [here](https://epinedo3.github.io/5-schedule/).
 
 ## Screenshot
-![Screenshot](./Develop/assets/Challenge%205.PNG)
+![Screenshot](./assets/Challenge%205.PNG)
 
 ## Credits
 N/A
